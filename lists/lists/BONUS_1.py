@@ -1,1 +1,2 @@
-# Napis funkci, ktera dostane seznam, odstrani posledni dva prvky a zbytek vrati jako setrideny seznam
+# Write a function that takes a list
+# removes last two items and returns the result as sorted list

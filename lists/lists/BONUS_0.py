@@ -1,1 +1,1 @@
-# Napis funkci, ktera vrati seznam celych cisel od 0 do 99
+# Write a function that returns list of integers from 0 to 99 in order

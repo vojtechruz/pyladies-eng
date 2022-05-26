@@ -1,1 +1,3 @@
-# Napis funkci, ktera dostane seznam celych cisel a vrati novy seznam, ktery obsahuje jen ta cisla, ktera jsou kladna
+# Write a function that takes a list of integers
+# and returns a new list with those numbers which are POSITIVE
+# This list should be sorted from highest to lowest numbers
