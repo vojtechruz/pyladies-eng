@@ -1,5 +1,9 @@
-osoby = 'máma', 'teta', 'babička', 'vrah'
-vlastnosti = 'hodná', 'milá', 'laskavá', 'zákeřný'
+animals = 'dog', 'cat', 'fox', 'badger'
+attributes = 'loyal', 'lazy', 'cunning', 'furious'
 
-for osoba, vlastnost in zip(osoby, vlastnosti):
-    print('{} je {}'.format(osoba, vlastnost))
+for pair in zip(animals, attributes):
+    print(pair)
+    print('{} is {}'.format(pair[0], pair[1]))
+
+# for person, attribute in zip(animals, attributes):
+#     print('{} is {}'.format(person, attribute))
