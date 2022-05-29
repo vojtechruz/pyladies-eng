@@ -6,7 +6,7 @@
 json_string_from_eshop = """
 {
     "ProductName": "Wonderglue",
-    "Price": 2999,
-    "InStock": True
+    "Price": 299,
+    "InStock": true
 }
 """
