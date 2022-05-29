@@ -8,5 +8,5 @@ letters = ["C", "D", "A", "B"]
 letters.sort()
 print(letters)
 
-# It changes the existing list, we dont have to assign the result
+# It changes the existing list, we don't have to assign the result
 # to a variable

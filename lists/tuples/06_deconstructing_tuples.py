@@ -1,4 +1,4 @@
-# Deletni se zbytkem 21/4
+# Division with remainder 21/4
 division = divmod(21, 4)
 result, remainder = division
 

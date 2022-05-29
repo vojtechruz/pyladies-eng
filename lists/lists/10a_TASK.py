@@ -5,7 +5,7 @@
 # return_highest_number([1,5,12,3,7]) returns 12
 # return_highest_number([1,1,3,1,3]) returns 3
 
-def return_highest_number(seznam):
+def return_highest_number(input):
   # TODO
 
 

@@ -12,9 +12,9 @@ numbers[0:3] = []
 # Removes item from the list by VALUE not by position!
 # numbers.remove(-6)
 
-# Odstrani posledni polozku a vrati ji
-# posledni = cisla.pop()
-# print(posledni)
+# Removes and returns the last item from a list
+# last = numbers.pop()
+# print(last)
 
 
 print(numbers)
