@@ -39,7 +39,7 @@ for key in list(phonebook.keys()):
     if key == 'Frank':
         del phonebook[key]
 
-# Let's verify that Franks is really deleted
+# Let's verify that Frank is really deleted
 print('Phonebook without Frank:')
 print(phonebook)
 

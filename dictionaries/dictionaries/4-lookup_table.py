@@ -1,4 +1,4 @@
-# Collection of items of the same type where we lookup values by key
+# Collection of items of the same type where we look up values by key
 # Eg:
     # Phonebook - find phone number by name
     # Find price by product's name
