@@ -1,5 +1,7 @@
-import cyclic1a
+from cyclic1a import function3
 
-b = 10
 
-print(cyclic1a.a)
+def function2():
+    print('Hello, World!')
+    function3()
+
