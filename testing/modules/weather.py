@@ -5,7 +5,7 @@ def Tommorow():
     print("Tommorow will be even better")
 
 
-#Pozor na vedlejsi efekty!
-#Veskere prikazy z importovanych modulu se automaticky provedou!
+#Be awareof Side effects!
+#All commands from imported moduls will happened automaticallu!
 
-# print("Toto je priklad vedlejsiho efektu! Vedejsi efekty nechceme.")
+# print("This is example of the side effects - we do not want them")
