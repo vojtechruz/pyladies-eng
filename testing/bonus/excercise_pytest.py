@@ -1,5 +1,5 @@
 import pytest
-from testing_brc.bonus.exercise import adj_sqrt
+from testing.bonus.exercise import adj_sqrt
 
 
 def test_adj_sqrt( ):

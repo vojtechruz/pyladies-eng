@@ -2,7 +2,6 @@ def get_age_of_user():
     while True:
         age = input('Age: \n')
 
-        # Co se stane kdyz uzivatel zada retezec nebo desetinne cislo?
         try:
             age = int(age)
         except ValueError:

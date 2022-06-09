@@ -16,6 +16,7 @@ def move_player(game_board):
         else:
             return move(game_board, cell_number, "x")
 
+
 def move(game_board, cell_number, symbol):
     return game_board[:cell_number] + symbol + game_board[cell_number + 1:]
 

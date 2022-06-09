@@ -16,13 +16,6 @@ def area():
 
 
 ##################################################################################
-# MEDIUM
-# think and implement the raise statement for reasonable input mistakes. What are
-# reasonable mistakes of the user?
-#################################################################################
-
-
-##################################################################################
 # HARD
 # Get rid of the raise and use while loop with else statements to make sure program will
 # be asking until correct values are entered

@@ -1,0 +1,18 @@
+BaseException
+ ├── SystemExit                     raised by function exit()
+ ├── KeyboardInterrupt              raised after pressing Ctrl+C
+ ╰── Exception
+      ├── ArithmeticError
+      │    ╰── ZeroDivisionError    zero division
+      ├── AssertionError            command `assert` failed
+      ├── AttributeError            non-existing attribute, e.g. 'abc'.len
+      ├── ImportError               failed import
+      ├── LookupError
+      │    ╰── IndexError           non-existing index, e.g. 'abc'[999]
+      ├── NameError                 used a non-existing variable name
+      │    ╰── UnboundLocalError    used a variable that wasn't initiated
+      ├── SyntaxError               wrong syntax – program is unreadable/unusable
+      │    ╰── IndentationError     wrong indentation
+      │         ╰── TabError        combination of tabs and spaces
+      ├── TypeError                 wrong type, e.g. len(9)
+      ╰── ValueError                wrong value, e.g. int('xyz')

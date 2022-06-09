@@ -1,8 +1,6 @@
 # -*- coding: UTF-8 -*-
 import random
 
-import random
-
 def move_player(game_board):
     while True:
         cell_number = input("Give number between 0-19: ")

@@ -13,7 +13,7 @@ def area_of_square(side):
         raise AreaError("This is nto a number!")
 
 while True:
-    side = input("Zadej stranu ctverce v centimetrech:")
+    side = input("Side in CM:")
     try:
         area = area_of_square(side)
         break
