@@ -12,7 +12,6 @@ class Animal:
     def eat(self, food):
         print('{}: Yum! {} tastes good.'.format(self.name, food))
 
-
 class Kitten(Animal):
     def __str__(self):
         return 'Kitten {}'.format(self.name)
