@@ -3,17 +3,17 @@
 
 class Kitten:
     def __init__(self, name):
-        print('Creating Kitten with name {}'.format(name))
+        print(f'Creating Kitten with name {name}')
         self.name = name
 
     def __str__(self):
-        return 'Kitten {}'.format(self.name)
+        return f'Kitten {self.name}'
 
     def eat(self, food):
-        print('{}: Yum! {} tastes good.'.format(self.name, food))
+        print(f'{self.name}: Yum! {food} tastes good.')
 
     def meow(self, message):
-        print('{}: {}'.format(self.name, message))
+        print(f'{self.name}: {message}')
 
 
 kitty = Kitten('Whiskers')
