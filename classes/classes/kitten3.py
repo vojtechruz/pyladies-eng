@@ -18,10 +18,12 @@ class Kitten:
         print('Kitten: {}'.format(message))
 
 
+# The first kitty
 kitty = Kitten()
 kitty.name = 'Whiskers'
 print('Name of first kitty is {}'.format(kitty.name))
 
+# Completely different and independent kitty
 another_kitty = Kitten()
 another_kitty.name = 'Fluffy'
 print('Name of second kitty is {}'.format(another_kitty.name))
