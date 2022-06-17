@@ -3,7 +3,7 @@
 
 class Kitten:
     def meow(self, message):
-        print('Kitten: {}'.format(message))
+        print(f'Kitten: {message}')
 
 
 kitty = Kitten()

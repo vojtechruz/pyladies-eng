@@ -13,7 +13,7 @@
 
 class Kitten:
     def meow(self, message):
-        print('{}: {}'.format(self.name, message))
+        print(f'{self.name}: {message}')
 
 
 kitty = Kitten()
