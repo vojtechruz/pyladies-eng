@@ -4,5 +4,10 @@ This repository contains english examples for the Python course.
 Lesson: Lists and Tuples
 - [Lists](https://github.com/vojtechruz/python-course-examples-eng/tree/main/lists/lists)
 - [Tuples](https://github.com/vojtechruz/python-course-examples-eng/tree/main/lists/tuples)
+
+Lesson: Dictionaries
 - [Dictionaries](https://github.com/vojtechruz/python-course-examples-eng/tree/main/dictionaries)
-- [Classes](https://github.com/vojtechruz/python-course-examples-eng/tree/main/classes)
+
+Lesson: Classes and inheritance
+- [Classes](https://github.com/vojtechruz/python-course-examples-eng/tree/main/classes/classes)
+- [Inheritance](https://github.com/vojtechruz/python-course-examples-eng/tree/main/classes/inheritance)
