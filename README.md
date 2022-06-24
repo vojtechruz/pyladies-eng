@@ -1,5 +1,5 @@
 # Python course examples
-This repository contains english examples for the Python course.
+This repository contains english examples for the [Python course](https://naucse.python.cz/2020/pyladies-en-prague/).
 
 Lesson: Lists and Tuples
 - [Lists](https://github.com/vojtechruz/python-course-examples-eng/tree/main/lists/lists)
