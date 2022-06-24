@@ -1,11 +1,12 @@
-# Mnozina se vytvari pomoci set(['Prvek', 'Druhy prvek']) nebo {'Prvek', 'Druhy prvek'}
-# Prazdna mnozina je set()
-# Mnozina neni serazena
+# Sets are created by set(['Item', 'Second Item'])
+# or {'Item', 'Second Item'}
+# Empty set is set()
+# Set does not preserve order
 
-# Kazdy prvek v mnozine muze byt nanejvys jednou
+# Each item in set is unique and can be present only once
 
-# Lze testovat pritomnost prvku v mnozine
+# We can test presence of items in the set
 
-# if(prvek in mnozina)
-# if(prvek not in mnozina)
+# if(item in my_set)
+# if(item not in my_set)
 
